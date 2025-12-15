@@ -28,10 +28,10 @@ to the expected output of GPT for the given description (visible below the "ASSI
 
 TOOL directory
 =================================================================================================
-This directory will contain the source code of the prototype used in this approach.
+This directory contains the source code of the prototype used in this approach.
 It is worth noting that one CAN NOT make usage of this source code as it requires the authors'
 personal OpenAI API key to work.
-However, anyone interested can duplicate this source code, fine-tuned his own model and make
+However, anyone interested in can duplicate this source code, fine-tune his own model and make
 usage of this source code.
 
 Contributors
